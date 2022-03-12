@@ -3,8 +3,8 @@
     "description": "Kingbot- Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
     "logo": "https://avatars.githubusercontent.com/u/89557325?s=96&v=4",
     "keywords": ["whatsapp", "userbot", "king", "kingbot", "bot", "api", "ai"],
-    "repository": "
-https://github.com/crazybunnyts/KingBot",
+    "repository": "https://github.com/crazybunnyts/KingBot",
+
     "stack": "container",
     "env": {
         "Kingbot_SESSION": {
